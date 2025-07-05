@@ -10,7 +10,7 @@ Analyser et visualiser les performances des deux légendes du football à traver
 - Les buts par **club**
 - La répartition par **compétition**
 
-## 📊 Technologies utilisées
+##  Technologies utilisées
 
 - **R**  
 - **Shiny**  
